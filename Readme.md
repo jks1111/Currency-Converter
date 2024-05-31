@@ -1,1 +1,1 @@
-![Image of The web page for currency converter](C:\React\Currency Converter\currencyC.jpg "web page")
+<img width="415" alt="image" src="currencyC.jpg">
